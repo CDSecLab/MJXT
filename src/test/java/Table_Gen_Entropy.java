@@ -5,6 +5,7 @@ import java.io.IOException;
 
 /**
  * This code aims to generate the tables with different entropy.
+ * For example, 'data/table1/table1_k9_j1_65536_16.csv'
  *
  * @Author: 杜凯
  * @Date: 2024/03/18/11:32

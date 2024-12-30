@@ -4,7 +4,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 /**
- *
+ * This code aims to generate the tables with different Lmax, where Lmax is a parameter in JXT++.
+ * For example, 'data/table1/table1_k9_j1_65536_Lmax.csv'
  *
  * @Author: 杜凯
  * @Date: 2023/11/06/15:29

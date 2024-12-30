@@ -5,7 +5,8 @@ import java.io.IOException;
 
 /**
  * This code aims to generate the table with different numbers of join attributes.
- *
+ * For example, 'data/table1/table1_k5_j5_65536.csv'
+ * 
  * @Author: 杜凯
  * @Date: 2023/11/06/15:29
  * @Description:
