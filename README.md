@@ -2,6 +2,8 @@
 
 This repo implements the join query schemes, for example, JXT [1], JXT+ and JXT++, and shows the constructions and comparison of them. 
 
+This work has been accepted by [ACM CCS 2024](https://dlnext.acm.org/doi/10.1145/3658644.3690377).
+
 ## Overview
 
 - [Background](#background)
